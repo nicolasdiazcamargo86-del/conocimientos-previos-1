@@ -1,0 +1,8 @@
+participantes: Nicolas Diaz, Diego Nicolas, Bruce Dereck, Heidi prieto 
+ADSO 3406012
+
+Informe: A nuestro punto de vista hemos visto que es bastante sencillo trabajar en grupo, desde el líder que crea el repositorio y lo comparte con los demás integrantes del grupo permitiendo que cada uno clone ese repositorio en su dispositivo y que comiencen a trabajar en el desde su propia rama permite que el trabajo sea mas fácil ya que permite que se siga una constancia de todos los datos y las modificaciones que hace cada uno de manera individual,
+
+Cuando se hace el Merge la interconexión con las ramas ala rama master es algo mas complejo ya que el primero que lo hace suele ser bastante sencillo pero los siguientes cambios o interconexiones que se hagan ala base de datos se muestran distintos errores ya que algunos códigos o cambios presentan errores por la unión directa, lo que provoca que los integrantes que cometieron ese error tengan que solucionarlo modificando algunas partes del código, haciendo que sea un poco complejo ver el error que surge de estos
+
+Principal mente esos fueron los errores que pudimos visualizar en la actividad de grupos.
