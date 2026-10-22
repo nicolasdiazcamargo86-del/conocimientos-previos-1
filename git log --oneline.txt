@@ -1,0 +1,4 @@
+Informe: 
+trabajo en parejas de Git log (Nicolas Diaz, Cristian Calderón)
+
+Me pareció una actividad bastante fácil de entender y usar estos comandos me permite ver que son muy útiles ya que si surge un error este funcionara siempre ya que permite arreglar la versión dañada y volver a una versión donde funcione correctamente, además Git log permite ver las versiones con su hash designado a cada commit, esto permite ver la versión que queremos fácil mente y nos permite ser muy activos y eficaces gracias a estos dos comandos  
